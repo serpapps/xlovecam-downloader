@@ -1,4 +1,4 @@
-# XLoveCam Downloader (Browser Extension)
+# XLoveCam Video Downloader (Browser Extension)
 
 > Record XLoveCam streams and download saved videos as MP4 files for offline viewing.
 
@@ -12,7 +12,7 @@ XLoveCam Downloader is a browser extension built for users who want a cleaner wa
 
 ## Links
 
-- :rocket: Get it here: [XLoveCam Downloader](https://serp.ly/xlovecam-video-downloader)
+- :rocket: Get it here: [XLoveCam Downloader](https://serp.ly/xlovecam-video-downloader?via=github)
 - :new: Latest release: [GitHub Releases](https://github.com/serpapps/xlovecam-downloader/releases/latest)
 - :question: Help center: [SERP Help](https://help.serp.co/en/)
 - :beetle: Report bugs: [GitHub Issues](https://github.com/serpapps/xlovecam-downloader/issues)
@@ -126,7 +126,7 @@ The extension only works on media you can already open and play in your active b
 - No credit card required for the trial
 - Unlimited downloads are available with a paid license
 
-Start here: [https://serp.ly/xlovecam-video-downloader](https://serp.ly/xlovecam-video-downloader)
+Start here: [https://serp.ly/xlovecam-video-downloader?via=github](https://serp.ly/xlovecam-video-downloader?via=github)
 
 ## Installation Instructions
 
